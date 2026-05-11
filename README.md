@@ -15,13 +15,13 @@ Función AWS Lambda utilizada para:
 #### Variables de entorno utilizadas
 
 - `ENDPOINT_NAME`
-  - Nombre del endpoint desplegado en Amazon SageMaker.
+  - Nombre del endpoint desplegado en Amazon SageMaker: `endpoint-sisfall-final-v2`
 
 - `TABLE_NAME`
-  - Tabla DynamoDB utilizada para registrar alertas.
+  - Tabla DynamoDB utilizada para registrar alertas: `RegistroAlertas`
 
 - `SNS_TOPIC_ARN`
-  - Topic SNS utilizado para el envío de notificaciones.
+  - Topic SNS utilizado para el envío de notificaciones: arn:aws:sns:us-east-1:399327635752:AlertasCaidas
 
 ---
 
