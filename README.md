@@ -21,7 +21,7 @@ Función AWS Lambda utilizada para:
   - Tabla DynamoDB utilizada para registrar alertas: `RegistroAlertas`
 
 - `SNS_TOPIC_ARN`
-  - Topic SNS utilizado para el envío de notificaciones: arn:aws:sns:us-east-1:399327635752:AlertasCaidas
+  - Topic SNS utilizado para el envío de notificaciones: `arn:aws:sns:us-east-1:399327635752:AlertasCaidas`
 
 ---
 
